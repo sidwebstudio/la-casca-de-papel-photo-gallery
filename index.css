@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding:0 ;
+    border: 0;
+}
+body{
+    background-image: url(IMG/BAKKKKG.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+   
+    
+    
+}
+h1 a{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    width: auto;
+    height: auto;
+    border: 2px solid red;
+    background-size: 10px;
+}
+
+
+.dummy1 div{
+    display: inline-block;
+    padding: 20px;
+    color: whitesmoke;
+    
+}
+.dummy1 div p{
+    text-align: center;
+    width: 300px;
+}
+.dummy1 div h3{
+    text-align: center;
+}
+div img{
+    width: 500px;
+    height: 700px;
+    border: 1px solid rgb(255, 0, 0);
+}
+.dummy2 div{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+}
+.dummy2 div p{
+    text-align: center;
+    width: 300px;
+    
+}
+.dummy2 div h3{
+    text-align: center;
+}
+footer h2{
+    background-color: rgba(39, 9, 11, 0.703);
+    text-align: center;
+    color: whitesmoke;
+    position: relative;
+    bottom: 0;
+    
+}
+.dummy1{
+    margin-left: 90px;
+}
+.dummy2{
+    margin-left: 90px;
+}
+p{
+    text-align: center;
+}
+body h4{
+    position: relative;
+    color: beige;
+    font-size: x-large;
+    top: 3245px;
+    left: 1300px;
+    z-index: 1;
+
+}
